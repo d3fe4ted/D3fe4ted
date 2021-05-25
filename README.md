@@ -8,7 +8,10 @@
 <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCIRQg-fYoe77mZ4DLcq4E9Q?color=%2300FFFF&style=for-the-badge">
 
 <div><h1>Resources</h1>
-  
+  <div><h3>Linux Debian</h3>
+  <div><h3>Termux</h3>
+  <div><h3>Windows 10</h3>
+  <div><h3>Repl.it (For quick testing)</h3>
 
 <!---
 DeaKenas/DeaKenas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
