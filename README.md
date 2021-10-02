@@ -6,6 +6,7 @@
 
 <div><h1>Socials</h1>
   <div>My Channel<div>
+  <div>   
   <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCIRQg-fYoe77mZ4DLcq4E9Q?color=%2300FFFF&style=for-the-badge">
 
 <div><h1>Resources</h1>
