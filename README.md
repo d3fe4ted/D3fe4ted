@@ -7,9 +7,7 @@
 </div>
   
 <div><h1>Socials</h1>
-  <div>My Channel<div>
-  <div>   </div>
-  <img alt="YouTube Channel" src="https://youtube.com/c/d3fe4ted">
+  <a href="https://youtube.com/c/d3fe4ted">YouTube</a>
 
 <div><h1>Resources</h1>
   <div><h3>Debian</h3>
