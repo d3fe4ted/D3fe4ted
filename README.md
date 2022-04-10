@@ -3,15 +3,20 @@
 
 </div>
 
-  <div><p> Hi, I’m @D3fe4ted I’m interested in coding, gaming, and pc building. I’m currently learning C and Python. Part-time working on a net-looking python script that uses joker and priority methods, If I figure out how to add bots to it and payload I will make it open source!
-</div>
+  <div><p> Hi, I’m D3fe4ted I’m interested in coding, gaming, and pc building. I’m currently learning C and Python. Part-time working on a "net" python script that uses Joker and Priority methods, If I figure out how to add bots to it and payload I will make it open source! (Of course educational purposes only)
+
   
 <div><h1>Socials</h1>
-  <a href="https://youtube.com/c/d3fe4ted">YouTube</a>
-
+  <div><a href="https://socials.deangelo.tk">Socials</a>
+  <div><a href="https://portfolio.deangelo.tk">Portfolio</a>
+ </div>
+    
 <div><h1>Resources</h1>
-  <div><h3>Debian</h3>
-  <div><h3>Kali Linux</h3>
-  <div><h3>Termux</h3>
-  <div><h3>Repl.it (For quick testing and collaborative coding)</h3>
-  <div><h3>Visual Code Studio</h3>
+  <div><a href="https://www.debian.org/download">Debian</a>
+  <div><a href="https://www.kali.org/get-kali/">Kali</a>
+  <div><a href="https://github.com/termux/termux-app#f-droid">Termux</a>
+  <div><a href="https://replit.com/">Repl.it</a>
+  <div><a href="https://code.visualstudio.com/">Visual Code Studio</a>
+   
+   </div>
+</html>
