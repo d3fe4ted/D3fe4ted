@@ -1,5 +1,5 @@
 <html>
-  <center><h1>About Me</h1></center>
+  <h1 align=center>About Me</h1>
 
 </div>
 
@@ -12,7 +12,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkotori&layout=compact&count_private=true&include_all_commits=true&hide_border=true&langs_count=10&theme=dark" /> 
     </div>
   
-<div><ul><h1>Socials</h1>
+<div><ul><h1 align=center>Socials</h1>
   <div><li><a href="https://socials.deangelo.tk">Socials</a>
   <div><li><a href="https://portfolio.deangelo.tk">Portfolio</a>
  </ul></div>
