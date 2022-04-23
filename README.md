@@ -7,9 +7,7 @@
 <div><h1 align=center>
   
   [![D3fe4ted's GitHub stats](https://github-readme-stats.vercel.app/api?username=d3fe4ted&theme=dark&show_icons=true&icon_color=0BE7EE&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-  <div><h1 align=center>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkotori&layout=compact&count_private=true&include_all_commits=true&hide_border=true&langs_count=10&theme=dark" /> 
-    </div>
+  <div>
    </h1 align=center>
   
 <div><ul><h1 align=center>My Stuff</h1>
