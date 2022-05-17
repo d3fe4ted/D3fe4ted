@@ -10,8 +10,8 @@
    </h1 align=center>
   
 <div><ul><h1 align=center>My Stuff</h1>
-  <div><li><a href="https://socials.deangelo.tk">Socials</a>
-  <div><li><a href="https://portfolio.deangelo.tk">Portfolio</a>
+  <div><li><a href="https://www.deangelo.tk">Socials</a>
+  <div><li><a href="https://www.deangelo.tk">Portfolio</a>
  </ul></div>
     
 <div><ul><h1 align=center>Resources</h1>
@@ -22,5 +22,5 @@
   <div><li><a href="https://code.visualstudio.com/">Visual Code Studio</a>
    
    </ul>
-  </div>
+ </div>
 </html>
