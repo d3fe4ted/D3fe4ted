@@ -19,7 +19,7 @@
   <div><li><a href="https://www.kali.org/get-kali/">Kali</a>
   <div><li><a href="https://f-droid.org/en/packages/com.termux/">Termux</a>
   <div><li><a href="https://replit.com/">Repl.it</a>
-  <div><li><a href="https://code.visualstudio.com/">Visual Code Studio</a>
+  <div><li><a href="https://code.visualstudio.com/">VS Code</a>
    
    </ul>
  </div>
