@@ -20,7 +20,13 @@
   <div><li><a href="https://f-droid.org/en/packages/com.termux/">Termux</a>
   <div><li><a href="https://replit.com/">Repl.it</a>
   <div><li><a href="https://code.visualstudio.com/">VS Code</a>
-   
+
+<div>
+  <h1 align=center>Recommended Hosting For My Creations</h1><lu>
+  <li><a href="https://sacred.sbs/">Sacred Hosting</a>
+  <li><a href="https://www.cloudways.com/en/">Cloudways</a>
+  <li><a href="https://crazyrdp.com/linux-vps-hosting/">CrazyRDP</a>
+    <div>
    </ul>
  </div>
 </html>
