@@ -23,7 +23,6 @@
 
 <div>
   <h1 align=center>Recommended Hosting For My Creations</h1><lu>
-  <li><a href="https://sacred.sbs/">Sacred Hosting</a>
   <li><a href="https://www.cloudways.com/en/">Cloudways</a>
   <li><a href="https://crazyrdp.com/linux-vps-hosting/">CrazyRDP</a>
     <div>
