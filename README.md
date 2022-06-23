@@ -10,7 +10,7 @@
    </h1 align=center>
   
 <div><ul><h1 align=center>My Stuff</h1>
-  <div><li><a href="https://www.deangelo.tk">Socials</a>
+  <div><li><a href="https://www.d3fe4ted.tk">Socials</a>
   <div><li><a href="https://www.deangelo.tk">Portfolio</a>
  </ul></div>
     
