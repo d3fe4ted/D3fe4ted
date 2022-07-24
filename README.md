@@ -25,6 +25,7 @@
   <h1 align=center>Recommended Hosting</h1><lu>
   <li><a href="https://www.cloudways.com/en/">Cloudways</a>
   <li><a href="https://crazyrdp.com/linux-vps-hosting/">CrazyRDP</a>
+  <li><a href="https://www.ovhcloud.com/en/">OVHCloud</a>
     <div>
    </ul>
  </div>
