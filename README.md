@@ -16,9 +16,10 @@
     
 <div><ul><h1 align=center>Resources</h1>
   <div><li><a href="https://www.debian.org/">Debian</a>
-  <div><li><a href="https://www.kali.org/get-kali/">Kali</a>
   <div><li><a href="https://f-droid.org/en/packages/com.termux/">Termux</a>
   <div><li><a href="https://replit.com/">Repl.it</a>
+  <div><li><a href="https://www.nano-editor.org/">Nano</a>
+  <div><li><a href="https://www.vim.org/">VIM</a>
   <div><li><a href="https://code.visualstudio.com/">VS Code</a>
 
 <div>
